@@ -1,0 +1,65 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
+# File: C:\Users\Engr M Akmal Shafiq\Desktop\24 Hour Clock Quartus\digital_clock.csv
+# Generated on: Sat Jun 06 12:32:16 2020
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair
+clock,Input,PIN_Y2,2,B2_N0,PIN_Y2,,,,,
+display[41],Output,PIN_AA14,3,B3_N0,PIN_AA14,,,,,
+display[40],Output,PIN_AG18,4,B4_N2,PIN_AG18,,,,,
+display[39],Output,PIN_AF17,4,B4_N2,PIN_AF17,,,,,
+display[38],Output,PIN_AH17,4,B4_N2,PIN_AH17,,,,,
+display[37],Output,PIN_AG17,4,B4_N2,PIN_AG17,,,,,
+display[36],Output,PIN_AE17,4,B4_N2,PIN_AE17,,,,,
+display[35],Output,PIN_AD17,4,B4_N2,PIN_AD17,,,,,
+display[34],Output,PIN_AC17,4,B4_N2,PIN_AC17,,,,,
+display[33],Output,PIN_AA15,4,B4_N2,PIN_AA15,,,,,
+display[32],Output,PIN_AB15,4,B4_N2,PIN_AB15,,,,,
+display[31],Output,PIN_AB17,4,B4_N1,PIN_AB17,,,,,
+display[30],Output,PIN_AA16,4,B4_N2,PIN_AA16,,,,,
+display[29],Output,PIN_AB16,4,B4_N2,PIN_AB16,,,,,
+display[28],Output,PIN_AA17,4,B4_N1,PIN_AA17,,,,,
+display[27],Output,PIN_AH18,4,B4_N2,PIN_AH18,,,,,
+display[26],Output,PIN_AF18,4,B4_N1,PIN_AF18,,,,,
+display[25],Output,PIN_AG19,4,B4_N2,PIN_AG19,,,,,
+display[24],Output,PIN_AH19,4,B4_N2,PIN_AH19,,,,,
+display[23],Output,PIN_AB18,4,B4_N0,PIN_AB18,,,,,
+display[22],Output,PIN_AC18,4,B4_N1,PIN_AC18,,,,,
+display[21],Output,PIN_AD18,4,B4_N1,PIN_AD18,,,,,
+display[20],Output,PIN_AE18,4,B4_N2,PIN_AE18,,,,,
+display[19],Output,PIN_AF19,4,B4_N1,PIN_AF19,,,,,
+display[18],Output,PIN_AE19,4,B4_N1,PIN_AE19,,,,,
+display[17],Output,PIN_AH21,4,B4_N2,PIN_AH21,,,,,
+display[16],Output,PIN_AG21,4,B4_N2,PIN_AG21,,,,,
+display[15],Output,PIN_AA19,4,B4_N0,PIN_AA19,,,,,
+display[14],Output,PIN_AB19,4,B4_N0,PIN_AB19,,,,,
+display[13],Output,PIN_Y19,4,B4_N0,PIN_Y19,,,,,
+display[12],Output,PIN_AF23,4,B4_N0,PIN_AF23,,,,,
+display[11],Output,PIN_AD24,4,B4_N0,PIN_AD24,,,,,
+display[10],Output,PIN_AA21,4,B4_N0,PIN_AA21,,,,,
+display[9],Output,PIN_AB20,4,B4_N0,PIN_AB20,,,,,
+display[8],Output,PIN_U21,5,B5_N0,PIN_U21,,,,,
+display[7],Output,PIN_V21,5,B5_N1,PIN_V21,,,,,
+display[6],Output,PIN_W28,5,B5_N1,PIN_W28,,,,,
+display[5],Output,PIN_W27,5,B5_N1,PIN_W27,,,,,
+display[4],Output,PIN_Y26,5,B5_N1,PIN_Y26,,,,,
+display[3],Output,PIN_W26,5,B5_N1,PIN_W26,,,,,
+display[2],Output,PIN_Y25,5,B5_N1,PIN_Y25,,,,,
+display[1],Output,PIN_AA26,5,B5_N1,PIN_AA26,,,,,
+display[0],Output,PIN_AA25,5,B5_N1,PIN_AA25,,,,,
+reset,Input,PIN_M23,6,B6_N2,PIN_M23,,,,,
